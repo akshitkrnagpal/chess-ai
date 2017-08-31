@@ -1,0 +1,12 @@
+{
+  "name": "chess-ai",
+  "version": "0.1.0",
+  "description": "Chess AI",
+  "main": "./src/ChessAI.js",
+  "repository": "https://github.com/AkshitKrNagpal/chess-ai.git",
+  "author": "Akshit Kr Nagpal <nagpalkrakshit@gmail.com> (http://akshitkrnagpal.com)",
+  "license": "MIT",
+  "dependencies": {
+    "chess-rules": "^1.1.0"
+  }
+}
