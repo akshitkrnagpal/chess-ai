@@ -135,7 +135,6 @@ function evaluateMoveScore(position,move,depth) {
 			bestScore = score;
 		}
 	}
-	console.log(bestScore);
 	return bestScore;
 }
 
