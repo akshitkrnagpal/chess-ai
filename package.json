@@ -7,6 +7,6 @@
   "author": "Akshit Kr Nagpal <nagpalkrakshit@gmail.com> (http://akshitkrnagpal.com)",
   "license": "MIT",
   "dependencies": {
-    "chess-rules": "github:chess-react-native/chess-rules"
+    "chess-rules": "github:akshitkrnagpal/chess-rules"
   }
 }
